@@ -11,15 +11,27 @@ Our goal is to be make it difficult for readers, you should always use the fract
 ## Running the tests
 
 0.01 => 1/51
+
 0.02 => 1/34
+
 0.03 => 1/26
+
 0.04 => 1/21
+
 0.05 => 1/17
+
 0.06 => 1/15
+
 0.07 => 1/13
+
 0.08 => 1/12
+
 0.09 => 1/11
+
 0.10 => 1/10
+
 0.11 => 1/9
+
 0.12 => 1/8
+
 0.13 => 2/15
